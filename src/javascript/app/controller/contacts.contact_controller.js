@@ -1,0 +1,1 @@
+ContactManagement.ContactsContactController = Em.ObjectController.extend();

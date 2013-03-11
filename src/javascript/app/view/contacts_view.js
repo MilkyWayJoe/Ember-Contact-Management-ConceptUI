@@ -1,0 +1,1 @@
+ContactManagement.ContactsIndexView = Em.View.extend();

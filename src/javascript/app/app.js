@@ -1,0 +1,1 @@
+window.ContactManagement = Em.Application.create();
