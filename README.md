@@ -11,7 +11,7 @@ Please note that this the very first version and it's still work in progress. Th
 
 ----------
 
-Using:
+__Using:__
 
  - jQuery 1.9.1
  - Handlebars 1.0 RC3
