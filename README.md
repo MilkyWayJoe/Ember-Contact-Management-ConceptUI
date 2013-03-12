@@ -2,7 +2,7 @@
 
 ##Why?##
 
-This is a sample project. Its intent is to explore some common scenarios of a web application. This is a pure HTML/CSS/JavaScript only project with the concept UI which will be used as base to the client-server implementation, which will be in a different repository (it will be linked when the repo is up).
+This is a sample project. Its intent is to explore some common scenarios of a web application. This is a pure HTML/CSS/JavaScript project with the concept UI used in [Ember-Contact-Management-WebAPI](https://github.com/MilkyWayJoe/Ember-Contact-Management-WebAPI).
 
 ##WIP##
 
